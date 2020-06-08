@@ -5,7 +5,8 @@ To do that I will implement technical indicators based on historical stock data 
  Technical Indicators:
 - *Simple Moving Averages*, 
 - *Exponentially Weighted Average*,
-- *Bollinger Bands* 
- Once all of them signal the same trend the algorithm will execute buy/sell orders. 
+- *Bollinger Bands*, 
+ 
 
+Once all of them signal the same trend the algorithm will execute buy/sell orders. 
 I will be analyzing the performance of the stocks and their correlations with each other as well. Lastly, I will backtest my algorithm with 100K  to see the returns to my portfolio and visualize them.
