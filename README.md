@@ -1,4 +1,4 @@
-# S&P500-Stock-Analysis
+# S&P500 Stock Analysis
 **Manually analyzing stocks with technical indicators and predicting future movements can be time-consuming. Therefore, I plan to write an algorithm that analyzes the stock trends efficiently and fast**. 
 To do that I will implement technical indicators based on historical stock data and use machine learning to predict the future price of the stocks and the important features of my model. I will use Yahoo/Iex to gather stock prices into a pandas data frame. 
 
